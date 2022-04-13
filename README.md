@@ -3,15 +3,15 @@
 - 👋 Hi, I’m Faisal Waris
 - 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking to collaborate on MERN projects
-- 🔭 Check out my Pathfinding visualizer [Visualizer](https://faisalwaris777.github.io/PATHFINDING/)
+- 🔭 Check out my  [Pathfinding Visualizer](https://faisalwaris777.github.io/PATHFINDING/)
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/faisalwarisdli777/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/faisalwarisdli777/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/faisal_waris_/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/faisal_waris_/#gh-dark-mode-only)
+[![website](Linkedin)](https://www.linkedin.com/in/faisalwarisdli777/#gh-light-mode-only)
+[![website](Linkedin)](https://www.linkedin.com/in/faisalwarisdli777/#gh-dark-mode-only)
+
+[![website](Instagram)](https://www.instagram.com/faisal_waris_/#gh-light-mode-only)
+[![website](Instagram)](https://www.instagram.com/faisal_waris_/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -35,10 +35,6 @@
 
 <br />
 <br />
-
----
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [youtube]: https://www.youtube.com/channel/UClaN_V4GVlSJ4fIcI2CVY2Q
 [instagram]: https://www.instagram.com/faisal_waris_/
